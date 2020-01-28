@@ -1,8 +1,8 @@
 # javascript-challange
 
 This repo contains 2 folder:
-    1.  UFO-level-1
-    2. UFO-level-2
+1.  UFO-level-1
+2. UFO-level-2
 
 ***UFO-level-1***
 
